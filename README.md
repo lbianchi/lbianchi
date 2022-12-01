@@ -9,7 +9,7 @@ Hi, i'm [Lucas Bianchi](https://www.lucasbianchi.com/), a statistician with more
 
 I am also a R Lover, doing PhD in Epidemiology in Public Health at [ENSP/Fiocruz](https://ensp.fiocruz.br/). I learned a lot from the open-source community (Thank you Stack OverFlow 💖).
 
-<img align="right" alt="GIF" src="https://globalresearchsyndicate.com/wp-content/uploads/2020/12/market-growth.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://globalresearchsyndicate.com/wp-content/uploads/2020/12/market-growth.gif" width="350" height="300" />
   
 - 💼 Any freelance work? Do reach me at [email](mailto:estatistico.bianchi@gmail.com) :)
 - 💬 If you have any question, please, feel free to ask me, I am happy to help;
