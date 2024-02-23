@@ -21,8 +21,5 @@ I am also a R Lover, doing PhD in Epidemiology in Public Health at [ENSP/Fiocruz
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-If somehow, I helped you, please, feel free to buy me a coffee ☕💖
-
-<a href="https://www.buymeacoffee.com/bianchi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
