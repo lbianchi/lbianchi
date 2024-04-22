@@ -1,6 +1,5 @@
 ### Hey there, welcome!
 <br/>
-<br/>
 
 Hi, i'm [Lucas Bianchi](https://www.lucasbianchi.com/), a statistician with more then 7 years experience. I have been working in various fields, starting from collection data and ending with public health in Africa for World Health Organization during Covid-19 Pandemic. I have always been hard working and goal's focused with proven results.
 
