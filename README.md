@@ -1,8 +1,4 @@
 ### Hey there, welcome!
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/lucas-bianchi-19730993/)">
-  <img align="left" alt="Lucas's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://media.licdn.com/dms/image/D5603AQGbcCUUv3Iicg/profile-displayphoto-shrink_800_800/0/1686324521617?e=1719446400&v=beta&t=3Mo-1Gw-hwsJyQWe7di3bS1QM6eoquo3FM9dKjVVQ7s)" />
-</a>
-
 <br/>
 <br/>
 
