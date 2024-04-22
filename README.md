@@ -4,7 +4,7 @@
 
 Hi, i'm [Lucas Bianchi](https://www.lucasbianchi.com/), a statistician with more then 7 years experience. I have been working in various fields, starting from collection data and ending with public health in Africa for World Health Organization during Covid-19 Pandemic. I have always been hard working and goal's focused with proven results.
 
-I am also a R Lover, doing PhD in Epidemiology in Public Health at [ENSP/Fiocruz](https://ensp.fiocruz.br/). I learned a lot from the open-source community (Thank you Stack OverFlow 💖).
+I am also a R Lover, PhD in Epidemiology in Public Health at [ENSP/Fiocruz](https://ensp.fiocruz.br/). I learned a lot from the open-source community (Thank you Stack OverFlow 💖).
 
 <img align="right" alt="GIF" src="https://globalresearchsyndicate.com/wp-content/uploads/2020/12/market-growth.gif" width="350" height="300" />
   
